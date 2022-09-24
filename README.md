@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **redux & TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://gourav-sahu-portfolio.netlify.app/](https://gourav-sahu-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gouravsahu-portfolio.netlify.app/](https://gouravsahu-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@gourav6471sahu](https://medium.com/@gourav6471sahu)
 

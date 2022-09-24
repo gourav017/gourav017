@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gourav6471sahu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aqKbJw2ONXANB3vZ-2cJOjiY0iGCqt-N/view?usp=sharing](https://drive.google.com/file/d/1aqKbJw2ONXANB3vZ-2cJOjiY0iGCqt-N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LrR5ArGzconWyWMwAXJr8eLU9PUhapzh/view?usp=sharing](https://drive.google.com/file/d/1LrR5ArGzconWyWMwAXJr8eLU9PUhapzh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

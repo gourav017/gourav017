@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gourav6471sahu](https://medium.com/@gourav6471sahu)
 
-- 💬 Ask me about **React, Redux, JavaScript, Nodejs, Expressjs.**
+- 💬 Ask me about **React, Redux, JavaScript, Nodejs, Expressjs**
 
 - 📫 How to reach me **gourav6471sahu@gmail.com**
 
